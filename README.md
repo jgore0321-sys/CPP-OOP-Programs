@@ -1,29 +1,24 @@
 # C++ OOP Programs
 
-A collection of C++ programs created while studying **Object-Oriented Programming (OOP)**.  
-This repository contains practical programs covering classes, objects, constructors, inheritance, dynamic memory, arrays, friend classes, static members, and other OOP concepts.
+> A collection of C++ programs developed while learning and practicing **Object-Oriented Programming (OOP)** concepts.
 
-## 👨‍💻 Author
-
-**Jayesh Gore**  
-SY Computer Engineering | S-2  
-PVG's College of Engineering Technology and Management, Pune
+This repository contains practical implementations of OOP concepts through small real-world programs such as student management, vehicle management, hotel room booking, book shop management, and e-commerce order processing.
 
 ---
 
-## 📚 Programs Included
+## 📌 Repository Overview
 
-| Sr. No. | Program | Main Concepts |
-|--------:|---------|---------------|
-| 1 | Student Information System | Constructors, Copy Constructor, Destructor, Static Member, Friend Class |
-| 2 | Vehicle Management System | Classes, Objects, Member Functions, Data Updating, Calculations |
-| 3 | Hotel Room Booking System | 2D Arrays, Classes, Objects, Conditional Statements |
-| 4 | Book Shop Management System | Inheritance, Dynamic Memory Allocation, Destructor, Searching |
-| 5 | E-commerce Order Processing System | Constructor Overloading, Dynamic Memory, Pointers, Invoice & Discount |
+| Program | Description | Key Concepts |
+|---|---|---|
+| **Student** | Student information and object management | Constructors, Copy Constructor, Destructor, Static Members, Friend Class |
+| **Vehicle** | Vehicle details, fuel efficiency and maintenance | Classes, Objects, Member Functions, Data Updating |
+| **Hotel Room Booking** | Simple hotel room booking system | 2D Arrays, Classes, Constructors, Loops |
+| **Book Shop** | Book searching, purchasing and stock management | Inheritance, Dynamic Memory, Pointers, Destructor |
+| **E-commerce OPS** | Product and invoice processing system | Constructor Overloading, Dynamic Memory, Pointers, Billing |
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
 CPP-OOP-Programs/
@@ -33,3 +28,5 @@ CPP-OOP-Programs/
 ├── hotel_room_booking.cpp
 ├── Book_shop.cpp
 ├── E-commerce_OPS.cpp
+│
+└── README.md
