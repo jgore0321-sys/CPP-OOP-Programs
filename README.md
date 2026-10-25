@@ -1,8 +1,8 @@
 # C++ OOP Programs
 
-> A collection of C++ programs developed while learning and practicing **Object-Oriented Programming (OOP)** concepts.
+A collection of C++ programs developed while learning and practicing **Object-Oriented Programming (OOP)** concepts.
 
-This repository contains practical implementations of OOP concepts through small real-world programs such as student management, vehicle management, hotel room booking, book shop management, and e-commerce order processing.
+This repository contains practical implementations of OOP concepts through small real-world programs such as student management, vehicle management, hotel room booking, book shop management, e-commerce order processing, employee biodata management, and exception handling.
 
 ---
 
@@ -15,6 +15,8 @@ This repository contains practical implementations of OOP concepts through small
 | **Hotel Room Booking** | Simple hotel room booking system | 2D Arrays, Classes, Constructors, Loops |
 | **Book Shop** | Book searching, purchasing and stock management | Inheritance, Dynamic Memory, Pointers, Destructor |
 | **E-commerce OPS** | Product and invoice processing system | Constructor Overloading, Dynamic Memory, Pointers, Billing |
+| **BioData** | Employee personal, professional, and academic information management | Multiple Inheritance, Classes, Member Functions, Data Encapsulation |
+| **Exception Handling** | Publication, book, and tape information management with validation of input values | Inheritance, Exception Handling, `try`, `throw`, `catch`, Function Overriding |
 
 ---
 
@@ -28,5 +30,26 @@ CPP-OOP-Programs/
 ├── hotel_room_booking.cpp
 ├── Book_shop.cpp
 ├── E-commerce_OPS.cpp
+├── biodata(1).cpp
+├── Exception-Handling.cpp
 │
 └── README.md
+```
+
+---
+
+## 🎯 Learning Objectives
+
+- Understand classes, objects, constructors, and destructors.
+- Practice inheritance and polymorphism-related concepts.
+- Learn dynamic memory allocation and pointers.
+- Implement exception handling for invalid input.
+- Develop practical C++ programs based on real-world scenarios.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** C++
+- **Concepts:** Object-Oriented Programming (OOP)
+- **Compiler:** Any compatible C++ compiler
